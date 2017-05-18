@@ -1,0 +1,307 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     11822,        299]
+NotebookOptionsPosition[      9545,        235]
+NotebookOutlinePosition[      9890,        250]
+CellTagsIndexPosition[      9847,        247]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData["$Path"], "Input",
+ CellChangeTimes->{{3.7036730788875155`*^9, 
+  3.703673080215665*^9}},ExpressionUUID->"2063b8d2-1d5e-4456-be5b-\
+211070fe62c7"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"C:\\\\Users\\\\Pieter\\\\.p2\\\\pool\\\\plugins\\\\com.wolfram.\
+eclipse.MEET_10.1.822\\\\MathematicaSourceVersioned\\\\Head\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\.p2\\\\pool\\\\plugins\\\\com.wolfram.\
+eclipse.MEET_10.1.822\\\\MathematicaSource\"\>", 
+   ",", "\<\"D:\\\\Program \
+Files\\\\eclipse\\\\java-neon\\\\eclipse\\\\configuration\\\\org.eclipse.osgi\
+\\\\476\\\\0\\\\.cp\\\\MathematicaSource\"\>", 
+   ",", "\<\"D:/EclipsWolframWorkspace/rkcproject\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Links\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\AppData\\\\Roaming\\\\Mathematica\\\\\
+Kernel\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\AppData\\\\Roaming\\\\Mathematica\\\\\
+Autoload\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\AppData\\\\Roaming\\\\Mathematica\\\\\
+Applications\"\>", ",", "\<\"C:\\\\ProgramData\\\\Mathematica\\\\Kernel\"\>", 
+   ",", "\<\"C:\\\\ProgramData\\\\Mathematica\\\\Autoload\"\>", 
+   ",", "\<\"C:\\\\ProgramData\\\\Mathematica\\\\Applications\"\>", 
+   ",", "\<\".\"\>", ",", "\<\"C:\\\\Users\\\\Pieter\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\Packages\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Autoload\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\Autoload\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\Applications\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\ExtraPackages\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Kernel\\\\Packages\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\Documentation\\\\English\\\\System\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Data\\\\ICC\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{3.7036734695777493`*^9, 3.703673699433322*^9, 
+  3.703674074827467*^9, 
+  3.7036758087272825`*^9},ExpressionUUID->"235d3e43-3eae-42a2-bf7a-\
+8fad2624b6e9"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["$ContextPath"], "Input",
+ CellChangeTimes->{{3.7036720735367756`*^9, 3.7036720765008864`*^9}, {
+  3.7036723431096153`*^9, 
+  3.7036723490848494`*^9}},ExpressionUUID->"ac477cb0-b88d-4819-957b-\
+7a9843fe7e59"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"applicationname`\"\>", ",", "\<\"IconizeLoader`\"\>", 
+   ",", "\<\"HTTPHandlingLoader`\"\>", ",", "\<\"StreamingLoader`\"\>", 
+   ",", "\<\"InterpreterLoader`\"\>", ",", "\<\"CloudObjectLoader`\"\>", 
+   ",", "\<\"PacletManager`\"\>", ",", "\<\"System`\"\>", 
+   ",", "\<\"Global`\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{3.7036723512384043`*^9, 3.70367259870849*^9, 
+  3.703673474907564*^9, 3.703673705587701*^9, 3.7036758052808285`*^9, 
+  3.703679190182706*^9, 
+  3.703679253556702*^9},ExpressionUUID->"4e6c5f1c-33cc-4f4c-a607-\
+89ae7d3e74d6"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["abc"], "Input",
+ CellChangeTimes->{{3.7036723714367723`*^9, 3.7036723735973167`*^9}, {
+  3.703672429005744*^9, 3.7036724313654275`*^9}, {3.703674100359661*^9, 
+  3.7036741008390017`*^9}},ExpressionUUID->"d802daa3-4a29-4ca7-902d-\
+240cc5250014"],
+
+Cell[BoxData["abc"], "Output",
+ CellChangeTimes->{3.703672433420866*^9, 3.7036741042324104`*^9, 
+  3.703679905345523*^9},ExpressionUUID->"13e0f0bc-3faf-456e-b6e5-\
+aa97be0e2cde"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["$Path"], "Input",
+ CellChangeTimes->{{3.7036724649883537`*^9, 
+  3.703672466381345*^9}},ExpressionUUID->"c64185d8-0c43-48d5-a8d8-\
+a2c0f79ae44f"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"C:\\\\Users\\\\Pieter\\\\.p2\\\\pool\\\\plugins\\\\com.wolfram.\
+eclipse.MEET_10.1.822\\\\MathematicaSourceVersioned\\\\Head\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\.p2\\\\pool\\\\plugins\\\\com.wolfram.\
+eclipse.MEET_10.1.822\\\\MathematicaSource\"\>", 
+   ",", "\<\"D:\\\\Program \
+Files\\\\eclipse\\\\java-neon\\\\eclipse\\\\configuration\\\\org.eclipse.osgi\
+\\\\476\\\\0\\\\.cp\\\\MathematicaSource\"\>", 
+   ",", "\<\"D:/EclipsWolframWorkspace/rkcproject\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Links\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\AppData\\\\Roaming\\\\Mathematica\\\\\
+Kernel\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\AppData\\\\Roaming\\\\Mathematica\\\\\
+Autoload\"\>", 
+   ",", "\<\"C:\\\\Users\\\\Pieter\\\\AppData\\\\Roaming\\\\Mathematica\\\\\
+Applications\"\>", ",", "\<\"C:\\\\ProgramData\\\\Mathematica\\\\Kernel\"\>", 
+   ",", "\<\"C:\\\\ProgramData\\\\Mathematica\\\\Autoload\"\>", 
+   ",", "\<\"C:\\\\ProgramData\\\\Mathematica\\\\Applications\"\>", 
+   ",", "\<\".\"\>", ",", "\<\"C:\\\\Users\\\\Pieter\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\Packages\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Autoload\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\Autoload\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\Applications\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\AddOns\\\\ExtraPackages\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Kernel\\\\Packages\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\Documentation\\\\English\\\\System\"\>", 
+   ",", "\<\"D:\\\\Program Files\\\\Wolfram Research\\\\Mathematica\\\\11.1\\\
+\\SystemFiles\\\\Data\\\\ICC\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{{3.7036725417389665`*^9, 3.703672558211689*^9}, 
+   3.7036792507517233`*^9, 
+   3.7036801589515877`*^9},ExpressionUUID->"96c0b42e-f21b-469d-a1aa-\
+34a4bfde12e2"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"<<", "applicationname`"}]], "Input",
+ CellChangeTimes->{{3.7036726050370193`*^9, 3.703672614397679*^9}, {
+  3.70367353656044*^9, 3.703673540823475*^9}, {3.703673721398984*^9, 
+  3.703673724950505*^9}},ExpressionUUID->"347f6cfa-c78b-4f5f-a3c1-\
+65fed3596cb8"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["$ContextPath"], "Input",
+ CellChangeTimes->{{3.7036726277101536`*^9, 
+  3.703672632008207*^9}},ExpressionUUID->"55f9eb92-e6cc-48ad-9463-\
+9d649e960178"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"applicationname`\"\>", ",", "\<\"IconizeLoader`\"\>", 
+   ",", "\<\"HTTPHandlingLoader`\"\>", ",", "\<\"StreamingLoader`\"\>", 
+   ",", "\<\"InterpreterLoader`\"\>", ",", "\<\"CloudObjectLoader`\"\>", 
+   ",", "\<\"PacletManager`\"\>", ",", "\<\"System`\"\>", 
+   ",", "\<\"Global`\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{3.703672632683672*^9, 3.703673764171411*^9, 
+  3.703674610133292*^9, 3.703679276811232*^9, 
+  3.703698487020788*^9},ExpressionUUID->"024ff9ee-ae15-4503-9828-\
+c3833a1bb6df"]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.7036726478875074`*^9, 
+  3.7036726498699245`*^9}},ExpressionUUID->"d8c9656a-a08a-4cb6-ab6b-\
+ce3e99004493"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"MainFunction", "[", "4", "]"}]], "Input",
+ CellChangeTimes->{{3.7036726581398096`*^9, 
+  3.7036726676465745`*^9}},ExpressionUUID->"819bfca4-03aa-447c-9a5d-\
+0e83ded2ac5f"],
+
+Cell[BoxData["21"], "Output",
+ CellChangeTimes->{
+  3.70367266888443*^9, 3.703673760290663*^9, 3.7036746159614973`*^9, 
+   3.7036758177736917`*^9, 3.7036759476391134`*^9, {3.7036792619867077`*^9, 
+   3.703679313274125*^9}, {3.7036799714474487`*^9, 3.70368002223351*^9}, 
+   3.703680163739988*^9, 3.7036984902300663`*^9, 
+   3.703698564320675*^9},ExpressionUUID->"022f3ea7-60bc-49da-b092-\
+09cc7d00c02b"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["$SessionID"], "Input",
+ CellChangeTimes->{{3.7036745418667*^9, 
+  3.703674548913684*^9}},ExpressionUUID->"ff8c7178-944d-42a3-a7a9-\
+e2402494a622"],
+
+Cell[BoxData["30409378309083134508"], "Output",
+ CellChangeTimes->{3.703674550038667*^9, 3.703675820390554*^9, 
+  3.7036758730650387`*^9, 3.703679940965805*^9, 3.7036801725722585`*^9, 
+  3.7036984827097244`*^9, 3.7036985275265493`*^9, 
+  3.7036985663901443`*^9},ExpressionUUID->"119d9135-a4c6-4d2c-ab2d-\
+17d6d0954c33"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"aa", "=", "5"}]], "Input",
+ CellChangeTimes->{{3.7036745685545793`*^9, 
+  3.7036745702264843`*^9}},ExpressionUUID->"1e4fd012-d8f4-437e-ae04-\
+80dd53670982"],
+
+Cell[BoxData["5"], "Output",
+ CellChangeTimes->{3.7036745709452324`*^9, 
+  3.7036801026726265`*^9},ExpressionUUID->"1f0a2e33-9ab3-4060-b92a-\
+fbc21b8b1392"]
+}, Open  ]]
+},
+WindowSize->{775, 872},
+WindowMargins->{{Automatic, 143}, {Automatic, 228}},
+FrontEndVersion->"11.1 for Microsoft Windows (64-bit) (April 18, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 159, 3, 30, "Input", "ExpressionUUID" -> \
+"2063b8d2-1d5e-4456-be5b-211070fe62c7"],
+Cell[742, 27, 2262, 40, 354, "Output", "ExpressionUUID" -> \
+"235d3e43-3eae-42a2-bf7a-8fad2624b6e9"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3041, 72, 221, 4, 30, "Input", "ExpressionUUID" -> \
+"ac477cb0-b88d-4819-957b-7a9843fe7e59"],
+Cell[3265, 78, 594, 11, 50, "Output", "ExpressionUUID" -> \
+"4e6c5f1c-33cc-4f4c-a607-89ae7d3e74d6"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3896, 94, 258, 4, 30, "Input", "ExpressionUUID" -> \
+"d802daa3-4a29-4ca7-902d-240cc5250014"],
+Cell[4157, 100, 178, 3, 30, "Output", "ExpressionUUID" -> \
+"13e0f0bc-3faf-456e-b6e5-aa97be0e2cde"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4372, 108, 159, 3, 30, "Input", "ExpressionUUID" -> \
+"c64185d8-0c43-48d5-a8d8-a2c0f79ae44f"],
+Cell[4534, 113, 2268, 40, 354, "Output", "ExpressionUUID" -> \
+"96c0b42e-f21b-469d-a1aa-34a4bfde12e2"]
+}, Open  ]],
+Cell[6817, 156, 282, 5, 30, "Input", "ExpressionUUID" -> \
+"347f6cfa-c78b-4f5f-a3c1-65fed3596cb8"],
+Cell[CellGroupData[{
+Cell[7124, 165, 166, 3, 30, "Input", "ExpressionUUID" -> \
+"55f9eb92-e6cc-48ad-9463-9d649e960178"],
+Cell[7293, 170, 544, 10, 50, "Output", "ExpressionUUID" -> \
+"024ff9ee-ae15-4503-9828-c3833a1bb6df"]
+}, Open  ]],
+Cell[7852, 183, 156, 3, 30, "Input", "ExpressionUUID" -> \
+"d8c9656a-a08a-4cb6-ab6b-ce3e99004493"],
+Cell[CellGroupData[{
+Cell[8033, 190, 195, 4, 30, "Input", "ExpressionUUID" -> \
+"819bfca4-03aa-447c-9a5d-0e83ded2ac5f"],
+Cell[8231, 196, 403, 7, 30, "Output", "ExpressionUUID" -> \
+"022f3ea7-60bc-49da-b092-09cc7d00c02b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8671, 208, 160, 3, 30, "Input", "ExpressionUUID" -> \
+"ff8c7178-944d-42a3-a7a9-e2402494a622"],
+Cell[8834, 213, 319, 5, 87, "Output", "ExpressionUUID" -> \
+"119d9135-a4c6-4d2c-ab2d-17d6d0954c33"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9190, 223, 180, 4, 30, "Input", "ExpressionUUID" -> \
+"1e4fd012-d8f4-437e-ae04-80dd53670982"],
+Cell[9373, 229, 156, 3, 30, "Output", "ExpressionUUID" -> \
+"1f0a2e33-9ab3-4060-b92a-fbc21b8b1392"]
+}, Open  ]]
+}
+]
+*)
+
